@@ -1,0 +1,55 @@
+[gd_scene format=3 uid="uid://egwu0sv0mxh1"]
+
+[ext_resource type="Script" uid="uid://befh3l5y4jkv0" path="res://NCS/components/visual_component_2d.gd" id="1_qqgw4"]
+[ext_resource type="Script" uid="uid://ul6alhbehn8i" path="res://NCS/data/visual_component_2d_data.gd" id="2_wvbbu"]
+[ext_resource type="PackedScene" uid="uid://c5pyo3um0k36w" path="res://test/particle_effect_001.tscn" id="3_wvbbu"]
+[ext_resource type="AudioStream" uid="uid://ham573gvequi" path="res://test/spaceEngine_002.ogg" id="4_3v1qs"]
+[ext_resource type="Texture2D" uid="uid://b1elgmv5rvinn" path="res://test/circle-000.svg" id="4_jp3oe"]
+[ext_resource type="Script" uid="uid://bvsh6qcd5gr78" path="res://NCS/components/manage_groups_component.gd" id="6_hhskb"]
+[ext_resource type="Resource" uid="uid://b227aaitao83e" path="res://test/player_group_manager.tres" id="7_hhskb"]
+[ext_resource type="Script" uid="uid://c5cu1t8m3qgym" path="res://NCS/components/dashed_circle_component_2d.gd" id="8_vkktu"]
+[ext_resource type="Script" uid="uid://3sl6837r3wqu" path="res://NCS/data/dashed_circle_component_data.gd" id="9_yquq7"]
+[ext_resource type="Script" uid="uid://c5bb4xwwjtvxo" path="res://NCS/components/rotate_component_2d.gd" id="10_1qq2h"]
+[ext_resource type="Script" uid="uid://j8bdwujh0kid" path="res://NCS/data/rotate_component_data.gd" id="11_wqcdl"]
+
+[sub_resource type="Resource" id="Resource_jp3oe"]
+script = ExtResource("2_wvbbu")
+texture = ExtResource("4_jp3oe")
+particle_effect = ExtResource("3_wvbbu")
+sound_effect = ExtResource("4_3v1qs")
+volume_db = -10.0
+autoplay = true
+looping = true
+max_distance = 500.0
+metadata/_custom_type_script = "uid://ul6alhbehn8i"
+
+[sub_resource type="Resource" id="Resource_1qq2h"]
+script = ExtResource("9_yquq7")
+radius = 200.0
+metadata/_custom_type_script = "uid://3sl6837r3wqu"
+
+[sub_resource type="Resource" id="Resource_4nw02"]
+script = ExtResource("11_wqcdl")
+metadata/_custom_type_script = "uid://j8bdwujh0kid"
+
+[node name="Player" type="Node2D" unique_id=1332122923]
+
+[node name="VisualComponent2D" type="Node2D" parent="." unique_id=2021321782]
+script = ExtResource("1_qqgw4")
+data = SubResource("Resource_jp3oe")
+metadata/_custom_type_script = "uid://befh3l5y4jkv0"
+
+[node name="ManageGroupsComponent" type="Node" parent="." unique_id=986373009]
+script = ExtResource("6_hhskb")
+data = ExtResource("7_hhskb")
+metadata/_custom_type_script = "uid://bvsh6qcd5gr78"
+
+[node name="DashedCircleComponent2D" type="Node2D" parent="." unique_id=627728559]
+script = ExtResource("8_vkktu")
+data = SubResource("Resource_1qq2h")
+metadata/_custom_type_script = "uid://c5cu1t8m3qgym"
+
+[node name="RotateComponent2D" type="Node2D" parent="DashedCircleComponent2D" unique_id=130009233]
+script = ExtResource("10_1qq2h")
+data = SubResource("Resource_4nw02")
+metadata/_custom_type_script = "uid://c5bb4xwwjtvxo"

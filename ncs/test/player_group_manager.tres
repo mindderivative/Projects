@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="ManageGroupsComponentData" format=3 uid="uid://b227aaitao83e"]
+
+[ext_resource type="Script" uid="uid://dtu3ogioc0fb6" path="res://NCS/data/manage_groups_component_data.gd" id="1_wy0w6"]
+
+[resource]
+script = ExtResource("1_wy0w6")
+groups = Dictionary[String, bool]({
+"Enemy": false,
+"Player": true
+})
+metadata/_custom_type_script = "uid://dtu3ogioc0fb6"

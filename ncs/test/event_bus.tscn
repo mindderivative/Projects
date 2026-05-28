@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://r4idkws4am6p"]
+
+[ext_resource type="Script" uid="uid://jimrgshrm36s" path="res://test/event_bus.gd" id="1_cvope"]
+
+[node name="EventBus" type="Node" unique_id=384373517]
+editor_description = "The EventBus needs to be added to autoload to function properly."
+script = ExtResource("1_cvope")
