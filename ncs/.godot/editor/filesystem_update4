@@ -6,3 +6,6 @@ res://test/sun.gdshader
 res://test/procedural_lines.gdshader
 res://test/grid_fade.gdshader
 res://test/fade_hex_grid.gdshader
+res://NCS/components/zoom_component_2d.gd
+res://NCS/components/pan_component_2d.gd
+res://test/2d_test_scene.tscn

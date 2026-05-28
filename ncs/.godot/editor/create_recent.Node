@@ -1,3 +1,4 @@
+ZoomComponent2D
 RotateComponent2D
 DashedCircleComponent2D
 ManageGroupsComponent
@@ -12,4 +13,3 @@ TileHoverHighlightComponent2D
 HexTileLayer
 AnimationPlayer
 Sprite2D
-TileMapLayer

@@ -1,5 +1,6 @@
 [gd_scene format=4 uid="uid://bri55ob3dblie"]
 
+[ext_resource type="Script" uid="uid://d055n8f151m2q" path="res://NCS/components/zoom_component_2d.gd" id="1_tdptj"]
 [ext_resource type="Texture2D" uid="uid://c7du4j0w2ibr7" path="res://test/hex_tile.png" id="2_fkix8"]
 [ext_resource type="Script" uid="uid://cr4alf1kv2n7x" path="res://NCS/components/orbit_component_2d.gd" id="3_lkddh"]
 [ext_resource type="Script" uid="uid://diixj6sdrj3jm" path="res://NCS/abstracts/hex_tile_layer_2d.gd" id="4_2s6jh"]
@@ -135,6 +136,13 @@ metadata/_custom_type_script = "uid://cfolhe8oh3c1v"
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=269756973]
 zoom = Vector2(0.65, 0.65)
+
+[node name="ZoomComponent2D" type="Node2D" parent="Camera2D" unique_id=1612798443]
+script = ExtResource("1_tdptj")
+maxZoom = 1.0
+minZoom = 0.5
+zoomStepRatio = 0.05
+metadata/_custom_type_script = "uid://d055n8f151m2q"
 
 [node name="Background" type="Node2D" parent="." unique_id=450564141]
 show_behind_parent = true
