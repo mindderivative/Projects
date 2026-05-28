@@ -1,8 +1,1 @@
 res://default_bus_layout.tres
-res://test/player.tscn
-res://test/grid_tileset.tres
-res://test/2d_drop_shadow.gdshader
-res://test/sun.gdshader
-res://test/procedural_lines.gdshader
-res://test/grid_fade.gdshader
-res://test/fade_hex_grid.gdshader
