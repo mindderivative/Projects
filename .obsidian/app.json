@@ -1,0 +1,11 @@
+{
+  "openBehavior": "daily",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    ".*\\.uid$"
+  ]
+}

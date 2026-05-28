@@ -1,0 +1,11 @@
+{
+    "godotTools.editorPath.godot4": "godot",
+    "godotTools.documentation.displayMinimap": false,
+    "godotTools.inlayHints.gdresource": false,
+    "markdown.updateLinksOnFileMove.enabled": "always",
+    "markdown.preferredPathStyle": "relative",
+    "markdown.validate.enabled": true,
+    "markdown.validate.fileLinks.enabled": true,
+    "markdown.extension.toc.updateOnSave": true,
+    "foam.openDailyNote.onStartup": false
+}
