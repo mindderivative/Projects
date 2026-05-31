@@ -2,25 +2,69 @@
 
 [ext_resource type="Script" uid="uid://befh3l5y4jkv0" path="res://NCS/components/visual_component_2d.gd" id="1_qqgw4"]
 [ext_resource type="Script" uid="uid://ul6alhbehn8i" path="res://NCS/data/visual_component_2d_data.gd" id="2_wvbbu"]
+[ext_resource type="Texture2D" uid="uid://bujff1fs24vhy" path="res://test/module_001.png" id="3_wqcdl"]
 [ext_resource type="PackedScene" uid="uid://c5pyo3um0k36w" path="res://test/particle_effect_001.tscn" id="3_wvbbu"]
 [ext_resource type="AudioStream" uid="uid://ham573gvequi" path="res://test/spaceEngine_002.ogg" id="4_3v1qs"]
-[ext_resource type="Texture2D" uid="uid://b1elgmv5rvinn" path="res://test/circle-000.svg" id="4_jp3oe"]
+[ext_resource type="Texture2D" uid="uid://cahn4wpg5p5s0" path="res://test/core_001.png" id="5_1qq2h"]
 [ext_resource type="Script" uid="uid://bvsh6qcd5gr78" path="res://NCS/components/manage_groups_component.gd" id="6_hhskb"]
 [ext_resource type="Resource" uid="uid://b227aaitao83e" path="res://test/player_group_manager.tres" id="7_hhskb"]
 [ext_resource type="Script" uid="uid://c5cu1t8m3qgym" path="res://NCS/components/dashed_circle_component_2d.gd" id="8_vkktu"]
 [ext_resource type="Script" uid="uid://3sl6837r3wqu" path="res://NCS/data/dashed_circle_component_data.gd" id="9_yquq7"]
 [ext_resource type="Script" uid="uid://c5bb4xwwjtvxo" path="res://NCS/components/rotate_component_2d.gd" id="10_1qq2h"]
 [ext_resource type="Script" uid="uid://j8bdwujh0kid" path="res://NCS/data/rotate_component_data.gd" id="11_wqcdl"]
+[ext_resource type="Texture2D" uid="uid://bvkqo7ufah2dc" path="res://test/circle-001.svg" id="13_4nw02"]
 
 [sub_resource type="Resource" id="Resource_jp3oe"]
 script = ExtResource("2_wvbbu")
-texture = ExtResource("4_jp3oe")
+texture = ExtResource("5_1qq2h")
 particle_effect = ExtResource("3_wvbbu")
 sound_effect = ExtResource("4_3v1qs")
 volume_db = -10.0
 autoplay = true
 looping = true
 max_distance = 500.0
+metadata/_custom_type_script = "uid://ul6alhbehn8i"
+
+[sub_resource type="Animation" id="Animation_tqb3s"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:energy")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [1.1]
+}
+
+[sub_resource type="Animation" id="Animation_4nw02"]
+resource_name = "Strobe"
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:energy")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.5),
+"transitions": PackedFloat32Array(-2, 1),
+"update": 0,
+"values": [0.5, 1.3]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_tqb3s"]
+_data = {
+&"RESET": SubResource("Animation_tqb3s"),
+&"Strobe": SubResource("Animation_4nw02")
+}
+
+[sub_resource type="Resource" id="Resource_wqcdl"]
+script = ExtResource("2_wvbbu")
+texture = ExtResource("3_wqcdl")
 metadata/_custom_type_script = "uid://ul6alhbehn8i"
 
 [sub_resource type="Resource" id="Resource_1qq2h"]
@@ -34,10 +78,33 @@ metadata/_custom_type_script = "uid://j8bdwujh0kid"
 
 [node name="Player" type="Node2D" unique_id=1332122923]
 
-[node name="VisualComponent2D" type="Node2D" parent="." unique_id=2021321782]
+[node name="CoreVisuals" type="Node2D" parent="." unique_id=2021321782]
+modulate = Color(0, 1, 1, 1)
 script = ExtResource("1_qqgw4")
 data = SubResource("Resource_jp3oe")
 metadata/_custom_type_script = "uid://befh3l5y4jkv0"
+
+[node name="PointLight2D" type="PointLight2D" parent="." unique_id=1901313364]
+color = Color(0, 1, 1, 1)
+energy = 1.1
+shadow_filter = 1
+shadow_filter_smooth = 1.0
+texture = ExtResource("13_4nw02")
+texture_scale = 2.0
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="PointLight2D" unique_id=296115940]
+libraries/ = SubResource("AnimationLibrary_tqb3s")
+
+[node name="ModuleVisuals" type="Node2D" parent="." unique_id=1830633560]
+modulate = Color(0.41215247, 0.41215247, 0.41215247, 1)
+light_mask = 2
+script = ExtResource("1_qqgw4")
+data = SubResource("Resource_wqcdl")
+metadata/_custom_type_script = "uid://befh3l5y4jkv0"
+
+[node name="Module001" type="Sprite2D" parent="ModuleVisuals" unique_id=894255630]
+light_mask = 3
+texture = ExtResource("3_wqcdl")
 
 [node name="ManageGroupsComponent" type="Node" parent="." unique_id=986373009]
 script = ExtResource("6_hhskb")

@@ -22,7 +22,7 @@ width = 512
 curve = SubResource("Curve_bmnku")
 
 [sub_resource type="Gradient" id="Gradient_6v7lc"]
-colors = PackedColorArray(1, 0.42091367, 0, 0.671, 1, 1, 0, 1)
+colors = PackedColorArray(1, 1, 1, 0.671, 1, 1, 1, 1)
 metadata/_snap_enabled = true
 
 [sub_resource type="GradientTexture1D" id="GradientTexture1D_vkktu"]

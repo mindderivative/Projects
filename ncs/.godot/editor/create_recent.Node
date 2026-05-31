@@ -1,3 +1,9 @@
+AnimationPlayer
+LightOccluder2D
+PointLight2D
+VisualComponent2D
+Node2D
+Sprite2D
 ZoomComponent2D
 RotateComponent2D
 DashedCircleComponent2D
@@ -5,11 +11,5 @@ ManageGroupsComponent
 AudioStreamPlayer2D
 AudioListener2D
 GPUParticles2D
-VisualComponent2D
 Node
 TileHighlightComponent2D
-TileTransitionComponent2D
-TileHoverHighlightComponent2D
-HexTileLayer
-AnimationPlayer
-Sprite2D

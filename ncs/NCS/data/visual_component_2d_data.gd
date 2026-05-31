@@ -21,11 +21,41 @@ class_name VisualComponent2DData extends Data
 @export var audio_bus : String = "Master"
 
 func instantiate_particle_effect() -> Node2D:
-	if particle_effect:
-		var instance = particle_effect.instantiate() as Node2D
-		instance.position = offset
-		return instance
-	return null
+	if not particle_effect:
+		return null
+
+	var instance = particle_effect.instantiate() as Node2D
+	instance.name = "Particle Effect"
+	instance.position = offset
+	return instance
+
+func set_texture() -> Sprite2D:
+	if not texture:
+		return null
+
+	var sprite_instance : Sprite2D = Sprite2D.new()
+	sprite_instance.name = "Sprite"
+	sprite_instance.texture = texture
+	return sprite_instance
+
+func set_sound_effect() -> AudioStreamPlayer2D:
+	if not sound_effect:
+		return null
+
+	var sound_effect_player : AudioStreamPlayer2D = AudioStreamPlayer2D.new()
+	sound_effect_player.name = "Sound Effect Player"
+	sound_effect_player.stream = sound_effect
+	sound_effect_player.volume_db = volume_db
+	sound_effect_player.pitch_scale = pitch_scale
+	sound_effect_player.max_distance = max_distance
+	sound_effect_player.attenuation = attenuation
+	sound_effect_player.max_polyphony = max_polyphony
+	sound_effect_player.panning_strength = panning_strength
+	sound_effect_player.bus = audio_bus
+	sound_effect_player.autoplay = autoplay
+	if sound_effect_player.stream is AudioStreamOggVorbis:
+		sound_effect_player.stream.loop = looping
+	return sound_effect_player
 
 func _validate_property(property: Dictionary):
 	if property.name == "audio_bus":
