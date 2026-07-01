@@ -10,7 +10,7 @@
           {
             "id": "c655794845b8e96a",
             "type": "tabs",
-            "dimension": 22.39685658153242,
+            "dimension": 67.87819253438114,
             "children": [
               {
                 "id": "1f17b9ad976c3a97",
@@ -31,7 +31,7 @@
           {
             "id": "4948654660a2fa34",
             "type": "tabs",
-            "dimension": 77.60314341846758,
+            "dimension": 32.121807465618865,
             "children": [
               {
                 "id": "b01d4c98997888a0",
@@ -74,53 +74,10 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ~/LLM-Wiki: sudo journalctl -u llama-cluster.service -f -n 100 - sudo"
-                }
-              },
-              {
-                "id": "09e5fbd3dca61d8b",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/home/phil/LLM-Wiki",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "environment": [],
-                        "executable": "fish",
-                        "followTheme": true,
-                        "name": "Fish",
-                        "platforms": {
-                          "darwin": true,
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": false
-                      },
-                      "profileSourceId": "linuxIntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "icon": "terminal",
                   "title": "Terminal: ~/LLM-Wiki - fish"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -293,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 384
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,7 +269,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "09e5fbd3dca61d8b",
+  "active": "b01d4c98997888a0",
   "lastOpenFiles": [
     "wiki/log.md",
     "wiki/concepts/concepts.md",

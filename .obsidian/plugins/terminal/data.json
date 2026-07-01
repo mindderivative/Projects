@@ -11,7 +11,7 @@
   "keymappings": [
     {
       "action": "sendText",
-      "actionArg": null,
+      "actionArg": "",
       "alt": false,
       "ctrl": true,
       "key": "c",
@@ -21,7 +21,7 @@
     },
     {
       "action": "sendText",
-      "actionArg": null,
+      "actionArg": "",
       "alt": false,
       "ctrl": true,
       "key": "v",
