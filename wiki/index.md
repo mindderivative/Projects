@@ -1,0 +1,420 @@
+# Wiki Index
+
+> Auto-generated knowledge base directory
+
+> Note: Text in backticks after page names shows aliases — alternative names, abbreviations, or translations.
+
+## Entities
+
+- [[entities/arealight2d|arealight2d]] - generation_complete: true
+- [[entities/animation-system-editor|animation-system-editor]] - generation_complete: true
+- [[entities/arealight3d|arealight3d]] - generation_complete: true
+- [[entities/autoload|autoload]] - generation_complete: true
+- [[entities/canvaslayer|canvaslayer]] - created: 2026-07-01
+- [[entities/rigidbody2d|rigidbody2d]] - type: entity
+- [[entities/characterbody2d|characterbody2d]] - generation_complete: true
+- [[entities/aabb|aabb]] - type: entity
+- [[entities/csg|csg]] - generation_complete: true
+- [[entities/gdscript|gdscript]] - generation_complete: true
+- [[entities/emitter|emitter]] - generation_complete: true
+- [[entities/godot-editor|godot-editor]] - generation_complete: true
+- [[entities/godot-engine|godot-engine]] - generation_complete: true
+- [[entities/source-name|source-name]] - type: entity
+- [[entities/godot|godot]] - generation_complete: true
+- [[entities/3d-particle-system|3d-particle-system]] - type: entity
+- [[entities/gpuparticles2d|gpuparticles2d]] - generation_complete: true
+- [[entities/gpuparticles3d|gpuparticles3d]] - created: 2026-07-01
+- [[entities/gpuparticlesattractorbox3d|gpuparticlesattractorbox3d]] - created: 2026-07-01
+- [[entities/qwen|qwen]] - type: entity
+- [[entities/gpuparticlescollisionbox3d|gpuparticlescollisionbox3d]] - generation_complete: true
+- [[entities/meshinstance2d|meshinstance2d]] - generation_complete: true
+- [[entities/meshinstance3d|meshinstance3d]] - generation_complete: true
+- [[entities/multisample-antialiasing-msaa|multisample-antialiasing-msaa]] - generation_complete: true
+- [[entities/node2d|node2d]] - generation_complete: true
+- [[entities/parent-node|parent-node]] - type: entity
+- [[entities/object-oriented|object-oriented]] - generation_complete: true
+- [[entities/entities|entities]] - type: entity
+- [[entities/occludee|occludee]] - generation_complete: true
+- [[entities/using-platform-chromium|using-platform-chromium]] - type: entity
+- [[entities/platformweb|platformweb]] - generation_complete: true
+- [[entities/platformfirefox|platformfirefox]] - type: entity
+- [[entities/particleprocessmaterial|particleprocessmaterial]] - generation_complete: true
+- [[entities/project.godot|project.godot]] - generation_complete: true
+- [[entities/project-settings|project-settings]] - generation_complete: true
+- [[entities/resource-loader|resource-loader]] - generation_complete: true
+- [[entities/euler_angles|euler_angles]] - type: entity
+- [[entities/parallaxbackground|parallaxbackground]] - type: entity
+- [[entities/qwen-entity|qwen-entity]] - type: entity
+- [[entities/sprite2d|sprite2d]] - generation_complete: true
+- [[entities/collisionshape2d|collisionshape2d]] - type: entity
+- [[entities/sprite-animation|sprite-animation]] - type: entity
+- [[entities/reusability|reusability]] - type: entity
+- [[entities/design-patterns|design-patterns]] - type: entity
+- [[entities/fogmaterial|fogmaterial]] - type: entity
+- [[entities/euler-angle|euler-angle]] - type: entity
+- [[entities/c++|c++]] - type: entity
+- [[entities/sublime_text|sublime_text]] - type: entity
+- [[entities/camera-properties|camera-properties]] - type: entity
+- [[entities/godot-multimeshinstance3d|godot-multimeshinstance3d]] - type: entity
+- [[entities/control|control]] - type: entity
+- [[entities/ribbontrailmesh|ribbontrailmesh]] - type: entity
+- [[entities/tilemap-layer|tilemap-layer]] - type: entity
+- [[entities/tubetrailmesh|tubetrailmesh]] - type: entity
+- [[entities/attention|attention]] - type: entity
+- [[entities/customizing-the-interface|customizing-the-interface]] - type: entity
+- [[entities/resourceloader|resourceloader]] - type: entity
+- [[entities/particle-sub-emitters|particle-sub-emitters]] - type: entity
+- [[entities/script-editor|script-editor]] - type: entity
+- [[entities/leonhard-euler|leonhard-euler]] - type: entity
+- [[entities/godot-file-browser|godot-file-browser]] - type: entity
+- [[entities/screen-space-roughness-limiter|screen-space-roughness-limiter]] `aliases: Screen-space Roughness Limiter, 屏幕空间粗糙度限制器, Specular Aliasing Reduction Technique, Limiting Roughness in Screen Space, Roughness Limiting in 2D Rendering, Specular Flare Reduction, Limiting Material Roughness in 2D` - created: 2026-06-30
+- [[entities/speed-scale|speed-scale]] `aliases: Speed Scale, 粒子系统速度比例, 粒子系统速度缩放` - type: entity
+- [[entities/resource|resource]] `aliases: Resource Object, Godot Resource, Serialization Resource, Deserialization Resource, Resource File, Resource Properties, Resource Management, Resource System, Resource Saving, Resource Loading, Resource Storage, Resource Format, Resource File Format, Resource Saving and Loading, Resource Serialization Format, Resource Deserialization Format, Resource File System, Resource Property Management, Resource Property Serialization, Resource Property Deserialization, Resource Property Saving, Resource Property Loading, Resource Property Storage, Resource Property Format, Resource Property File Format, Resource Property Saving and Loading, Resource Property Serialization Format, Resource Property Deserialization Format, Resource Property File System, Resource Management System, Resource Management Tool, Resource Management System Tool, Resource Management System Tool Godot, Godot Resource Management, Godot Resource Management System, Godot Resource Management System Tool, resource-loader, Resource` - created: 2026-07-01
+- [[entities/worldenvironment|worldenvironment]] `aliases: World Environment Settings, Godot World Environment, 3D Scene Environment, Skybox, Ambient Light Settings, Rendering Environment, World Environment Node, Background Environment, Godot Environment Settings, Camera Environment` - created: 2026-06-30
+- [[entities/window|window]] `aliases: Window, 窗口` - type: entity
+- [[entities/voxelgi-global-illumination|voxelgi-global-illumination]] `aliases: Voxel Global Illumination Forward+, VoxelGI Forward Rendering, VoxelGI Forward+, VoxelGI Forward, VoxelGI Global Illumination Forward+, VoxelGI Forward+ Rendering, VoxelGI Forward+ Renderer, VoxelGI Forward Renderer` - generation_complete: true
+- [[entities/visual-studio-code|visual-studio-code]] - generation_complete: true
+- [[entities/viewport|viewport]] `aliases: Viewport, 视口, 2d-viewport` - type: entity
+- [[entities/vector3|vector3]] `aliases: Vector3, Godot Vector3` - type: entity
+- [[entities/turbulence|turbulence]] - generation_complete: true
+- [[entities/tileset|tileset]] `aliases: Tile Set, Tile-Set, Atlas` - type: entity
+- [[entities/tilemaplayer|tilemaplayer]] `aliases: Grid Map, Grid Map Level Creation Tool, Baked lightmaps, Terrain` - type: entity
+- [[entities/textureprogressbar|textureprogressbar]] `aliases: TextureProgressBar, Texture Progress Bar` - type: entity
+- [[entities/tags|tags]] `aliases: Project Tags, Project Labels, Project Identifiers, Project Categorization, Project Metadata, Project Markers, Project Classification` - created: 2026-06-30
+- [[entities/surfacetool|surfacetool]] `aliases: SurfaceTool GDScript, Godot SurfaceTool, 2D Mesh Builder, Custom Mesh Tool 2D, Mesh Creation Tool 2D, sprite2d, 2D Sprite, Sprite, 2D Image Node, 2D Display Node, 2D Texture Node, 2D Asset Node, Image Sprite, Texture Sprite, MeshDataTool, AnimatedSprite2D, Transform2D, 2D, 2D workspace, SurfaceTool` - created: 2026-06-30
+- [[entities/supersample-antialiasing-ssaa|supersample-antialiasing-ssaa]] `aliases: Supersampling, Full Sample Anti-Aliasing, Full Resampling Anti-Aliasing, FSAA, FSAA (Full Sample Anti-Aliasing), Full Scene Anti-Aliasing, FSAAA, Ultra Anti-Aliasing, UAA, 4x Supersampling, 4x Anti-Aliasing, 4x AA, 16x Supersampling, 16x Anti-Aliasing, 16x AA, 32x Supersampling, 32x Anti-Aliasing, 32x AA, Super Sampling Anti-Aliasing, Super Sampling Anti-Aliasing (SSAA)` - generation_complete: true
+- [[entities/sublime-text|sublime-text]] `aliases: Sublime Text, SubText` - type: entity
+- [[entities/sub-emitter|sub-emitter]] `aliases: Sub-emitter, 子发射器, emitter, Emitter, 粒子系统发射器, Sub Emitter` - type: entity
+- [[entities/scene|scene]] `aliases: Alternative scene name or translation` - type: entity
+- [[entities/scroll_scale|scroll_scale]] `aliases: Scroll Speed Multiplier, Scroll Speed Multiplier in Parallax2D` - type: entity
+- [[entities/scene-tree|scene-tree]] `aliases: synchronous lifecycle sequence, scene tree structure, SLC sequence, scene graph, lifecycle sequence, synchronous scene tree, scene tree model, SceneTree, Scene Tree dock` - type: entity
+- [[entities/repeat_size|repeat_size]] `aliases: repeat_size` - type: entity
+- [[entities/person-leonhard-euler|person-leonhard-euler]] `aliases: Euler Leonhard, Eulerian angles, Euler's rotation, Leonhard Euler mathematician, Eulerian rotations, Euler angles 3D` - created: 2026-06-30
+- [[entities/reflectionprobe|reflectionprobe]] `aliases: Reflection probes` - created: 2026-06-30
+- [[entities/process-material|process-material]] `aliases: Process Material, Material Process, 粒子系统材质, 3D Particle Material, Particle System Material, Process Material for 3D Rendering, 3D Rendering Material, Rendering Material, Material for Particle System, 3D Visualization Material, Visualizing Material, Material for 3D Visualization, 粒子系统渲染材质, 渲染粒子材质, 粒子渲染材质, particleprocessmaterial, Particle Process Material, PPM, particle process material, ParticleProcessMaterial` - created: 2026-07-01
+- [[entities/project-manager|project-manager]] `aliases: project creation, new project, start project, initiate project, new project setup, project initiation, begin project, start new project, start a new project, starting a new project, initiating project, new project creation, create new project, create project, create a new project, platformweb, Web editor, Embedded window, Game main screen, Physical camera units, Graphics driver, Project Manager, Git, Create button, New Project Button` - created: 2026-06-30
+- [[entities/particle-system|particle-system]] `aliases: Page Title, TextMesh, ClassDB, Autoload, Particle System, Draw Passes, Scene-referred, autoloads, Autoloads, particle system, autoload, Singleton Node, Global Node, SceneTree.change_scene_to_file, Autoloaded Node, Autoload Feature, Godot Autoload, Godot Singleton, Singleton in Godot, Autoload Singleton` - type: entity
+- [[entities/preprocess|preprocess]] `aliases: Preprocess, Pre-process` - type: entity
+- [[entities/preload|preload]] `aliases: Preloading, Resource Loading, Early Loading, Resource Preloading, Script Loading, GDScript Preload, Resource Loading Method, Early Resource Loading, Resource Loading Strategy, preload Global Method, Resource Preloading in GDScript, GDScript preload Function, Resource Preloading Technique, Preload Resource Loading, Early Resource Loading in GDScript, preload Resource Loading Method, Resource Loading preload, GDScript preload Method, preload Resource Loading Technique, Early Loading of Resources in GDScript, Resource Loading preload Global Method` - created: 2026-06-30
+- [[entities/polygon2d|polygon2d]] `aliases: Polygon2D` - type: entity
+- [[entities/pointlight2d|pointlight2d]] `aliases: PointLight2D, Point Light 2D` - type: entity
+- [[entities/platformxr|platformxr]] `aliases: XR Editor, XR Editor for Meta Quest, Meta Horizon Store, Meta Quest, Meta Horizon OS` - type: entity
+- [[entities/platformandroid|platformandroid]] `aliases: Android, Mobile` - created: 2026-06-30
+- [[entities/physics2d|physics2d]] `aliases: Physics System, 2D Physics Engine` - type: entity
+- [[entities/node3d|node3d]] `aliases: Godot Node, 3D Object Node, Scene Object Node, Transform Node, Parented Node, Hierarchy Node, 3D Scene Node, 3D Entity Node, node2d, Node, node, godot node` - created: 2026-06-30
+- [[entities/parallax2d|parallax2d]] `aliases: Parallax2D, Parallax 2D` - type: entity
+- [[entities/occluder|occluder]] `aliases: Occluder, Object or Shape that Hides Other Objects, occludee, Occludee, Occlusion Culling` - type: entity
+- [[entities/mesh|mesh]] `aliases: mesh LOD, ArrayMesh, MeshLibrary, PrimitiveType, obj-file, OBJ model, 3D mesh file, 3D geometry file, Wavefront OBJ, OBJ mesh, 3D mesh file format, 3D geometry format, 3D model file, 3D model format, 3D OBJ format, 3D Wavefront format, 3D mesh OBJ, 3D model OBJ, 3D Wavefront OBJ, 3D geometry OBJ, 3D mesh .obj, 3D model .obj, 3D Wavefront .obj, 3D geometry .obj, 3D mesh OBJ file, 3D model OBJ file, 3D Wavefront OBJ file, 3D geometry OBJ file, 3D mesh .obj file, 3D model .obj file, 3D Wavefront .obj file, 3D geometry .obj file, OBJ file format, Wavefront OBJ file format, OBJ mesh file, OBJ model file, OBJ file, Wavefront OBJ file, OBJ files, Wavefront OBJ files, OBJ mesh files, OBJ model files, OBJ mesh file format, OBJ model file format, OBJ files format, Wavefront OBJ files format, OBJ mesh files format, OBJ model files format, OBJ file formats, Wavefront OBJ file formats, OBJ mesh file formats, OBJ model file formats, Wavefront OBJ mesh, Wavefront OBJ model, Wavefront file, Wavefront format, Wavefront .obj, Wavefront files, Wavefront formats, Wavefront .obj files, Wavefront .obj file format, Wavefront OBJ mesh file, Wavefront OBJ model file, Wavefront mesh, Wavefront model, Wavefront meshes, Wavefront models, Wavefront mesh file, Wavefront model file, Wavefront mesh files, Wavefront model files` - created: 2026-06-30
+- [[entities/mesh-instance|mesh-instance]] `aliases: Complex Mesh Instance, Mesh Emission Instance, Mesh Emission Source, Emission Mesh Instance, Particle Emission Mesh, Mesh-Based Emission, Mesh-Based Particle Emission, Mesh Emission Shape, Emission Shape Mesh, Mesh Emission Points, Particle Emission Points Mesh, Mesh Instance for Emission, Emission Source Mesh, Complex Emission Mesh Instance, Complex Particle Emission Source, meshinstance3d, MultiMeshInstance3D` - created: 2026-06-30
+- [[entities/object|object]] `aliases: Object in Godot, RefCounted` - type: entity
+- [[entities/local-coords|local-coords]] `aliases: Local Coords, 粒子系统本地坐标` - type: entity
+- [[entities/line2d|line2d]] `aliases: Line2D, Line 2D` - type: entity
+- [[entities/lifetime|lifetime]] `aliases: particle lifetime, particle duration, particle exist time, Godot Particle System lifetime, Godot Particle System duration, Godot Particle System exist time, Godot particle existence time, Godot particle duration, Godot particle lifetime property, Godot particle exist time property, Godot particle duration property, Godot particle lifetime setting, Godot particle exist time setting, Godot particle duration setting, Godot particle lifetime control, Godot particle exist time control, Godot particle duration control` - created: 2026-06-30
+- [[entities/icon-svg|icon-svg]] `aliases: godot icon, sprite2d icon, 2d movement icon, svg icon, 8-way movement icon, rotation and movement icon, click-and-move icon, godot sprite2d texture, sprite2d texture icon, icon texture for sprite2d, svg texture for sprite2d, sprite2d texture svg, godot sprite2d svg texture, svg texture for 2d movement, godot, Page Title, GDScript, Godot Engine, GDNative, Godot 2D, Godot 3D, Godot GDNative, Godot 4.0, Godot 5.0, Godot 4.6, Godot 4.5, Godot 4.7, godot-engine, Godot 4.7+ Core Architecture and Lifecycle, Godot Engine community, godot-4-4, Godot 4.4 Upgrade, Godot 4.4 Release, Upgrading to Godot 4.4, Godot 4.4 Version, Godot 4.4 Update, Godot 4.4 Improvements, Godot 4.4 Features, Godot 4.4 Requirements, Godot 4.4 Android, Godot 4.4 C# Projects, Godot 4.4 Targeting.NET, Godot 4.4 Exporting, Godot 4.4 New Features, Godot 4.4 New Requirements, Godot 4.4 New Google Play, Godot 4.4 Minimum Version, Godot 4.4 Exporting C# Projects, Godot 4.4 Android Requirements, Godot 4.4 Exporting Requirements, Godot 4.4 Exporting Android, Godot 4.4 Exporting C# Projects to Android, Godot 4.4 Exporting Minimum Version, Godot 4.4 Exporting Targeting.NET, Godot 4.4 Exporting New Google Play, Godot 4.4 Exporting New Requirements, Godot 4.4 Exporting Android Requirements, Godot 4.4 Exporting C# Projects Android Requirements, Godot 4.4 Exporting Targeting.NET Requirements, Godot 4.4 Exporting New Google Play Requirements, Godot 4.4 Exporting New Android Requirements, Godot 4.4 Exporting New C# Projects Requirements, Godot 4.4 Exporting New Targeting.NET Requirements, Godot 4.4 Exporting New Google Play Android Requirements, Godot 4.4 Exporting New Google Play C# Projects Requirements, Godot 4.4 Exporting New Google Play Targeting.NET Requirements, Godot 4.4 Exporting New Google Play Android Targeting.NET Requirements, Godot 4.4 Exporting New Google Play Android C# Projects Requirements, Godot 4.4 Exporting New Google Play Android Targeting.NET C# Projects Requirements, Godot 4.4 Upgrading, gdscript, GDScript 2.0, Strongly Typed GDScript, characterbody2d, Character Body 2D, CharacterBody2D Class, Godot CharacterBody2D, 2D Character Movement, Character Movement 2D, CharacterBody2D Tutorial, Godot Character Movement, CharacterBody2D Example, 2D Godot Character Movement, Godot CharacterBody2D Movement, node2d, Node2D GD Class, Node2D Godot Class, Node2D 2D Node, Godot Node2D Class, Godot 2D Node, Godot 2D Node Class, Node2D Base Class, Godot Node2D Base Class, Godot Node2D, Godot Node2D Tutorial, Godot Node2D Rotation, Godot Node2D Movement, CharacterBody2D, Godot icon, icon` - created: 2026-06-30
+- [[entities/load|load]] - generation_complete: true
+- [[entities/gpuparticlescollisionsphere3d|gpuparticlescollisionsphere3d]] `aliases: GPUParticlesCollisionSphere3D, GPUParticles3D, gpuparticlescollisionbox3d, GPU Particle Box Collision, GPU Particle Collision Rectangular Box, GPUParticlesCollisionBox3D Extents, GPU Particle Box Collision Node, GPUParticlesCollisionBox3D Size, GPU Particle Box Collision Control, GPUParticlesCollisionBox3D 3D Collision, GPUParticlesCollisionBox3D Wall Collision, GPUParticlesCollisionBox3D Floor Collision, GPUParticlesCollisionBox3D Collision Node Size, GPUParticlesCollisionBox3D, GPU Particle Collision Box 3D, Collision Box 3D, gpuparticlescollisionsdf3d, GPU Particle Collision SDF 3D, Particle SDF Collision Node, GPUParticlesCollisionSDF3D Node, Particle Signed Distance Field Collision, Particle SDF Collision 3D, SDF Particle Collision Node, sphere collision node, Radius property, gpuparticles3d, Particle System Properties, gpuparticles2d, Amount, Maximum Visible Particles, Visibility AABB` - created: 2026-06-30
+- [[entities/lightoccluder2d|lightoccluder2d]] `aliases: Light Occluder 2D` - type: entity
+- [[entities/input|input]] `aliases: input, 输入, 用户输入, 用户交互, 键盘输入, 鼠标输入, Godot input` - created: 2026-06-30
+- [[entities/indirect-diffuse-lighting|indirect-diffuse-lighting]] `aliases: Physical light units` - created: 2026-06-30
+- [[entities/graphics-processing-unit|graphics-processing-unit]] `aliases: Nvidia Turing GPU, Nvidia Turing Microarchitecture, Nvidia Turing Graphics Card, Turing Graphics Processing Unit, Nvidia GPU Turing, Nvidia Turing Series, Turing GPU Architecture, Nvidia Turing Based GPU, Nvidia Turing Graphics` - created: 2026-06-30
+- [[entities/gpuparticlesattractorvectorfield3d|gpuparticlesattractorvectorfield3d]] `aliases: GPU Particle Attractor Vector Field 3D, GPU Particle Attractor, 3D Particle Attractor Vector Field, Vector Field Attractor for Particles, Particle Attractor Vector Field 3D, GPUParticlesAttractorVectorField3D, GPU Based Particle Attractor Vector Field, gpuparticlesattractorbox3d, GPUParticlesAttractorBox3D, Box Attractor 3D, Box Attractor, GPUParticlesCollisionHeightField3D` - created: 2026-07-01
+- [[entities/gpuparticlesattractorsphere3d|gpuparticlesattractorsphere3d]] `aliases: GPU Particle Attractor Sphere 3D, GPUParticle Attractor Sphere 3D, GPUParticleAttractorSphere3D, GPU Particle Attractor 3D, GPUParticleAttractor3D, Particle Attractor Sphere 3D GPU, GPUParticlesAttractorSphere3D` - created: 2026-06-30
+- [[entities/gpuinfo-org|gpuinfo-org]] `aliases: GPU Info, GPU Information, GPU Limitations, GPU Compatibility, Texture Size Support, GPU Constraints, GPUinfo, gpuinfo.com` - created: 2026-06-30
+- [[entities/godot-download-page|godot-download-page]] `aliases: Godot download page, Godot Engine download page` - type: entity
+- [[entities/google-play-store|google-play-store]] `aliases: Google Play App Store, Android App Store, Google Mobile App Store, Play Store Apps, Google Mobile Applications Store, Android Application Store, Google Android App Marketplace, Google Android Apps Store, Google Android Application Market` - created: 2026-06-30
+- [[entities/filesystem-dock|filesystem-dock]] `aliases: FileSystem, File Browser` - created: 2026-06-30
+- [[entities/directionallight3d|directionallight3d]] `aliases: Directional Light 3D, OmniLight3D, directionallight2d, Directional Light 2D, DirectionalLight2D, SpotLight3D` - type: entity
+- [[entities/csgcylinder3d|csgcylinder3d]] `aliases: Constructive Solid Geometry Cylinder, 3D Cylinder CSG Node, CSG 3D Cylinder, Cylinder Primitive in CSG, CSG Cylindrical Primitive, Cylindrical Constructive Solid Geometry, CSG Cylinder Shape` - created: 2026-06-30
+- [[entities/canvasmodulate|canvasmodulate]] `aliases: Canvas Ambient Color, 2D Ambient Light, Godot Canvas Ambient, Scene Base Color, Godot 2D Ambient, Canvas Base Color, docks, Inspector dock` - created: 2026-06-30
+- [[entities/canvasitem|canvasitem]] `aliases: CanvasItem, CanvasItem 2D nodes, CanvasItem base class, Game bar` - type: entity
+- [[entities/bvh|bvh]] `aliases: Bounding Volume Hierarchy, BVH` - type: entity
+- [[entities/camera3d|camera3d]] `aliases: 3D Camera, Godot Camera3D, 3D Scene Camera, Third-person Camera in Godot, CameraAttributes resource, Physical light units Camera, SpringArm3D child Camera, Camera3D node, Physical camera units Camera` - created: 2026-06-30
+- [[entities/antialiasing|antialiasing]] `aliases: High Dynamic Range (HDR), Resolution scaling, Compatibility` - created: 2026-06-30
+- [[entities/animationplayer|animationplayer]] `aliases: _init` - created: 2026-06-30
+- [[entities/amd-fidelityfx-super-resolution-fsr|amd-fidelityfx-super-resolution-fsr]] `aliases: AMD RDNA2` - created: 2026-06-30
+- [[entities/Environment|Environment]] `aliases: Environment Resource Summary` - type: entity
+
+## Concepts
+
+- [[concepts/concepts|concepts]] - type: concept
+- [[concepts/godot-object-constructor|godot-object-constructor]] - type: concept
+- [[concepts/canvasitem-notifications|canvasitem-notifications]] - type: concept
+- [[concepts/2d-graphics-concepts|2d-graphics-concepts]] - type: concept
+- [[concepts/baseline-node-knowledge|baseline-node-knowledge]] - type: concept
+- [[concepts/godot-4-7-upgrade|godot-4-7-upgrade]] - type: concept
+- [[concepts/visibility|visibility]] - type: concept
+- [[concepts/open-command-concepts|open-command-concepts]] - type: concept
+- [[concepts/mobile-games|mobile-games]] - type: concept
+- [[concepts/digital-distribution|digital-distribution]] - type: concept
+- [[concepts/pattern_data_flow|pattern_data_flow]] - type: concept
+- [[concepts/patterncomposition|patterncomposition]] - type: concept
+- [[concepts/using-the-xr-editor|using-the-xr-editor]] - type: concept
+- [[concepts/particle-collisions|particle-collisions]] - type: concept
+- [[concepts/vector-field-attractors-for-particles|vector-field-attractors-for-particles]] - type: concept
+- [[concepts/particle-system-duration|particle-system-duration]] - type: concept
+- [[concepts/godot-3d-concepts|godot-3d-concepts]] - type: concept
+- [[concepts/pat_patterncomposition|pat_patterncomposition]] - type: concept
+- [[concepts/world-space|world-space]] - type: concept
+- [[concepts/calculation-in-particle-system|calculation-in-particle-system]] - type: concept
+- [[concepts/godot-concepts|godot-concepts]] - type: concept
+- [[concepts/using-3d-transforms|using-3d-transforms]] - type: concept
+- [[concepts/starting|starting]] - type: concept
+- [[concepts/time|time]] - type: concept
+- [[concepts/3d_rotations|3d_rotations]] - type: concept
+- [[concepts/static-typing-concepts|static-typing-concepts]] - type: concept
+- [[concepts/scene-concepts|scene-concepts]] - type: concept
+- [[concepts/text-editors|text-editors]] - type: concept
+- [[concepts/tiling|tiling]] - type: concept
+- [[concepts/particle-system-pause|particle-system-pause]] - type: concept
+- [[concepts/speed|speed]] - type: concept
+- [[concepts/3d-text-projection|3d-text-projection]] - type: concept
+- [[concepts/supersampling-antialiasing|supersampling-antialiasing]] - type: concept
+- [[concepts/temporal-antialiasing|temporal-antialiasing]] - type: concept
+- [[concepts/multisampling-antialiasing|multisampling-antialiasing]] - type: concept
+- [[concepts/antialiasing|antialiasing]] - generation_complete: true
+- [[concepts/antialiasing_overview|antialiasing_overview]] - type: concept
+- [[concepts/click-and-move|click-and-move]] - generation_complete: true
+- [[concepts/script-editor-offline-class-reference|script-editor-offline-class-reference]] - type: concept
+- [[concepts/modularity|modularity]] - type: concept
+- [[concepts/dynamicdecals|dynamicdecals]] - type: concept
+- [[concepts/strategy|strategy]] - type: concept
+- [[concepts/observer-pattern|observer-pattern]] - type: concept
+- [[concepts/singleton|singleton]] - type: concept
+- [[concepts/development-environment|development-environment]] - type: concept
+- [[concepts/godot-project-manager|godot-project-manager]] - type: concept
+- [[concepts/flipbook-texture|flipbook-texture]] - generation_complete: true
+- [[concepts/vertex-in-godot|vertex-in-godot]] - type: concept
+- [[concepts/limitations|limitations]] - generation_complete: true
+- [[concepts/particle-systems|particle-systems]] - created: 2026-07-01
+- [[concepts/patternstate|patternstate]] - type: concept
+- [[concepts/fixed-fps|fixed-fps]] - type: concept
+- [[concepts/using-the-project-manager|using-the-project-manager]] - type: concept
+- [[concepts/using-the-godot-project-manager|using-the-godot-project-manager]] - type: concept
+- [[concepts/godot-engine-compilation-configuration-editor|godot-engine-compilation-configuration-editor]] - type: concept
+- [[concepts/static-typing|static-typing]] - type: concept
+- [[concepts/patternmemory|patternmemory]] - type: concept
+- [[concepts/pattern-composition|pattern-composition]] - type: concept
+- [[concepts/3d-rendering-limitations|3d-rendering-limitations]] - type: concept
+- [[concepts/static-typing-in-godot|static-typing-in-godot]] - type: concept
+- [[concepts/upgrading-to-godot-4.6|upgrading-to-godot-4.6]] - created: 2026-07-01
+- [[concepts/upgrading-from-godot-4-4-to-godot-4-5|upgrading-from-godot-4-4-to-godot-4-5]] - type: concept
+- [[concepts/automatic-mesh-lod|automatic-mesh-lod]] - type: concept
+- [[concepts/webassembly|webassembly]] - type: concept
+- [[concepts/2d-lights-and-shadows|2d-lights-and-shadows]] - type: concept
+- [[concepts/sub-pixel-morphological-antialiasing-smaa|sub-pixel-morphological-antialiasing-smaa]] - type: concept
+- [[concepts/high-dynamic-range-lighting-summary|high-dynamic-range-lighting-summary]] - type: concept
+- [[concepts/view-navigation-in-3d|view-navigation-in-3d]] - type: concept
+- [[concepts/coordinate-system-in-3d|coordinate-system-in-3d]] - type: concept
+- [[concepts/logic-preferences|logic-preferences]] - type: concept
+- [[concepts/mesh-level-of-detail|mesh-level-of-detail]] - type: concept
+- [[concepts/occlusion-culling-buffer-explanation|occlusion-culling-buffer-explanation]] - type: concept
+- [[concepts/object-oriented-programming-in-godot|object-oriented-programming-in-godot]] - type: concept
+- [[concepts/integrated-development-environments|integrated-development-environments]] - type: concept
+- [[concepts/third-person-camera-with-spring-arm|third-person-camera-with-spring-arm]] - type: concept
+- [[concepts/using-decals|using-decals]] - type: concept
+- [[concepts/browser-support|browser-support]] - type: concept
+- [[concepts/volumetric-fog-properties|volumetric-fog-properties]] - type: concept
+- [[concepts/bestpractices|bestpractices]] - type: concept
+- [[concepts/webassemblys-sharedarraybuffer|webassemblys-sharedarraybuffer]] `aliases: WebAssembly Shared Memory, WebAssembly Shared Buffer, WASM SharedArrayBuffer, WebAssembly Shared Array Buffer, WebAssembly Shared Memory Buffer, WASM Shared Memory, WASM Shared Buffer, WebAssembly Shared Data, Shared Memory WebAssembly, Shared Buffer WebAssembly, WASM Shared Data Buffer, WebAssembly Data Sharing Buffer, WASM Shared Data Memory` - created: 2026-06-30
+- [[concepts/visibility-ranges-hlod|visibility-ranges-hlod]] `aliases: Visibility Ranges (HLOD)` - type: concept
+- [[concepts/virtual-methods|virtual-methods]] `aliases: Virtual Methods` - type: concept
+- [[concepts/use_scene-meta-only|use_scene-meta-only]] `aliases: USE_SCENE (META ONLY)` - type: concept
+- [[concepts/upgrading|upgrading]] `aliases: Upgrading from Godot 4.5 to Godot 4.6, Migrating, Breaking changes, Upgrading to Godot 4.5, upgrading-to-godot-4.6, Migrating from Godot 4.6 to Godot 4.7` - type: concept
+- [[concepts/tube-trails|tube-trails]] `aliases: Tube Trails, Cylindrical Mesh Trails` - type: concept
+- [[concepts/transparency-sorting|transparency-sorting]] `aliases: 透明排序, 透明排序, Transparenzsortierung` - generation_complete: true
+- [[concepts/transform3d|transform3d]] `aliases: Transform3D, 3D transforms` - type: concept
+- [[concepts/transform-functions|transform-functions]] `aliases: Transform Functions, Canvas Transform, Canvas transform` - type: concept
+- [[concepts/trails|trails]] `aliases: Particle Trails, Godot Particle Trails` - type: concept
+- [[concepts/tips-&-tricks|tips-&-tricks]] `aliases: Tips & Tricks, Tips and Tricks` - type: concept
+- [[concepts/time-properties|time-properties]] `aliases: Time properties in Godot's particle system, 粒子系统时间属性` - type: concept
+- [[concepts/time-parameters|time-parameters]] `aliases: Time Parameters, Particle System Time Settings` - type: concept
+- [[concepts/tilemap|tilemap]] `aliases: Occlusion, tilemaps, Tilemaps, 2D layout, autotiling, Tiles` - created: 2026-06-30
+- [[concepts/texture-size|texture-size]] `aliases: Texture Size, Texture Map Dimensions` - type: concept
+- [[concepts/texture-size-limits|texture-size-limits]] `aliases: Texture Size Limits, Texture Size Limitations` - type: concept
+- [[concepts/temporal-antialiasing-taa|temporal-antialiasing-taa]] `aliases: temporal AA, temporal anti-aliasing, GODOT TAA, TAA in Godot, FSR2 TAA, AMD FSR TAA, anti-aliasing TAA, video game TAA, temporal supersampling, TAS, temporal adaptive sampling, TAA upsampling` - created: 2026-06-30
+- [[concepts/synchronous-lifecycle-sequence|synchronous-lifecycle-sequence]] `aliases: Synchronous Lifecycle Sequence, SLCS` - type: concept
+- [[concepts/strict-static-type-specification|strict-static-type-specification]] `aliases: Strict Static Type Specification, Static Types` - type: concept
+- [[concepts/spriteframes|spriteframes]] `aliases: Sprite Frames, SpriteFrames Resource, Godot SpriteFrames, AnimatedSprite2D, 2D sprite animation, SpriteFrames panel` - generation_complete: true
+- [[concepts/single-responsibility-principle|single-responsibility-principle]] `aliases: Single Responsibility Principle, SRP` - type: concept
+- [[concepts/signed-distance-field-global-illumination-sdfgi|signed-distance-field-global-illumination-sdfgi]] `aliases: Signed distance field global illumination` - type: concept
+- [[concepts/shadows|shadows]] `aliases: Shadows in 2D Lighting, 2D Light Shadow` - type: concept
+- [[concepts/shadow-mapping|shadow-mapping]] `aliases: Shadow Mapping, Shadow Mapping in Godot` - type: concept
+- [[concepts/scripts|scripts]] `aliases: Scripts, Godot Scripts` - type: concept
+- [[concepts/screen-coordinates|screen-coordinates]] `aliases: screen position, screen space coordinates, pixel coordinates, display coordinates, screen location, on-screen coordinates, 2D screen coordinates, 2D display coordinates, 2D pixel coordinates, 2D screen position` - generation_complete: true
+- [[concepts/scenes|scenes]] `aliases: Scenes, 场景, scene_organization, scene-based approach, hierarchical organization, Scene organization` - type: concept
+- [[concepts/runtime-permissions|runtime-permissions]] `aliases: RECORD_AUDIO` - created: 2026-06-30
+- [[concepts/rotation-movement|rotation-movement]] `aliases: Movement, third-person camera, click-and-move, Click and Move, Click-and-move, rotation-+-movement-mouse, Rotation + Movement (Mouse), Rotation + Movement, Mouse-Controlled Rotation + Movement, rotation-+-movement, Asteroids-style Movement, Rotation + movement, Asteroids-style movement, 2D interaction mode, 2D Movement, PlatformWeb` - type: concept
+- [[concepts/rotation-movement-mouse|rotation-movement-mouse]] - type: concept
+- [[concepts/ribbon-trails|ribbon-trails]] `aliases: Ribbon Trails, ribbon trails` - type: concept
+- [[concepts/rotation-+-movement|rotation-+-movement]] - generation_complete: true
+- [[concepts/rendering3d|rendering3d]] `aliases: Rendering 3D, 3D Rendering, 3D rendering, 3D, Occlusion culling, Occlusion Culling, Occlusion Culling Buffer, Boolean Operations, Forward+ Renderer, Static lighting` - type: concept
+- [[concepts/rendering2d|rendering2d]] `aliases: Rendering 2D, Managing editor features, Notification, Loading vs. Preloading, Compatibility renderer` - type: concept
+- [[concepts/rendering|rendering]] `aliases: Rendering, 渲染` - type: concept
+- [[concepts/particle-trails|particle-trails]] - generation_complete: true
+- [[concepts/rendering-2d|rendering-2d]] `aliases: 2D rendering` - created: 2026-06-30
+- [[concepts/recovery-mode|recovery-mode]] `aliases: crash recovery, crash troubleshooting, stabilizing a project, project crash recovery, godot crash recovery, godot project crash recovery, debugging project crashes, troubleshooting project crashes, godot project troubleshooting, godot project debugging, godot recovery mode, crash recovery mode, project crash recovery mode, godot project crash recovery mode` - created: 2026-06-30
+- [[concepts/real-time-rendering|real-time-rendering]] `aliases: Real-time Rendering, Real-time 3D Rendering, RT3D Rendering, Coordinate System, Physical light and camera units, Realistic lighting and camera settings, real-time, antialiasing, Antialiasing, 2D Rendering Antialiasing, rendering-2d, Rendering 2D, Infinite Repeat Effect, antialias, 2d antialiasing, 2d antialias, 2d smoothing, 2d smoothing techniques, Bilinear Scaling, 3D antialiasing, multisample-antialiasing-msaa, Multisample Anti-Aliasing, Multisample Supersampling, Subpixel Antialiasing, 2D Anti-Aliasing, 2D Supersampling, Multisampling Anti-Aliasing, MSAA, Fast Approximate Anti-Aliasing, FXAA, Temporal Anti-Aliasing, TAA, Supersampling Anti-Aliasing, SSAA, Variable Rate Shading, VRS, 3D Antialiasing` - type: concept
+- [[concepts/project|project]] `aliases: Project, 项目, project.godot, Godot editor, godot-xr-editor, godot-xr, godot-xr-platform, godot-xr-development, godot-xr-environment, godot-xr-technology, godot-xr-software, godot-xr-tools, godot-xr-interface, godot-xr-app, godot-xr-creation, godot-xr-design, godot-xr-editing, godot-xr-modelling, godot-xr-engine, godot-xr-3d, godot-xr-3d-editor, Alternative name or translation, godot-editor, Godot IDE, Godot development environment, Godot project editor, Godot game creation editor, Web-based Godot editor, Online Godot editor` - type: concept
+- [[concepts/particle-attractors|particle-attractors]] `aliases: particle magnets, particle control nodes, force-field attractors, particle manipulation nodes, particle direction control, particle force nodes, particle guide nodes, attractor force nodes, particle behavior control, attractor field nodes` - created: 2026-06-30
+- [[concepts/plugins|plugins]] `aliases: plugins extension, add-on, extension, addition, enhancement, addition, tool, module, component, package, integration, application, toolkit, library, software module` - generation_complete: true
+- [[concepts/object-oriented-programming|object-oriented-programming]] `aliases: Object-Oriented Programming (OOP)` - created: 2026-06-30
+- [[concepts/physics|physics]] `aliases: Physics, 物理学` - type: concept
+- [[concepts/performance|performance]] `aliases: Performance, 渲染性能, GPU性能` - type: concept
+- [[concepts/performance-optimization|performance-optimization]] `aliases: Performance Optimization, optimization, When and how to avoid using nodes for everything, limitations, Limitations, 限制, TileMapLayer, TileMapLayer optimization, Godot optimization` - type: concept
+- [[concepts/patterndataflow|patterndataflow]] `aliases: Pattern Data Flow` - type: concept
+- [[concepts/particle|particle]] `aliases: Particle System, 粒子系统, Advanced features, particle-systems, Particle Systems, 2D Particle Systems, particle emission points, 2D particle system, Manipulation Gizmos, particleSystem, particles, Threading, Version control systems, particle systems, 3D particle systems, GPU particle systems` - type: concept
+- [[concepts/particle-process-material-properties|particle-process-material-properties]] `aliases: Particle Process Material Properties, PPM Properties` - type: concept
+- [[concepts/particle-movement|particle-movement]] `aliases: Particle Dynamics, Movement of Particles, Particle Flows, Particle Motion, Particle Behavior, Particle Simulation, Particle System Kinematics, Particle System Movement` - generation_complete: true
+- [[concepts/light-nodes|light-nodes]] `aliases: Light Nodes, Lighting Nodes in Godot, 3D Scene Lighting, Lighting Effects Nodes, Godot Lighting Building Blocks, DirectionalLight3D, OmniLight3D, SpotLight3D, Godot Light Nodes for 3D Scenes` - generation_complete: true
+- [[concepts/gpuparticlescollision3d|gpuparticlescollision3d]] `aliases: GPUParticlesCollision3D, 3D Particle Collision Cull Mask` - type: concept
+- [[concepts/packedvector3array|packedvector3array]] `aliases: PackedVector3Array GDScript, Vector3Array, Godot 3D coordinates, 3D Vector Array, PackedVector3Array class, Godot engine 3D coordinates, Godot fixed-size array, PackedVector3Array storage, PackedVector3Array manipulation, Godot PackedVector3Array` - generation_complete: true
+- [[concepts/packedvector2array|packedvector2array]] `aliases: Packed Vector2 Array, 2D Vector Array, Vector2 Array, Fixed-size 2D Vector Array, Godot PackedVector2Array, Array of 2D Vectors, PackedVector2Array (Godot)` - created: 2026-06-30
+- [[concepts/optimizing-drawing-in-2d|optimizing-drawing-in-2d]] `aliases: Optimizing 2D Drawing, 2D Drawing Optimization` - type: concept
+- [[concepts/object-oriented-design-principles|object-oriented-design-principles]] `aliases: Object-Oriented Design Principles, OODP, object-oriented, Object-Oriented Programming, OOP, Object-Oriented, OODP: Object-Oriented Design Principles` - type: concept
+- [[concepts/noise-texture|noise-texture]] `aliases: Noise Texture, 噪波纹理, Turbulence Texture, Godot Noise Texture, Godot Turbulence Texture, Godot Particle Texture, Particle Noise Texture, Particle Turbulence Texture, Procedural Noise Texture, Procedural Turbulence Texture` - generation_complete: true
+- [[concepts/node-lifecycle-events|node-lifecycle-events]] `aliases: node lifecycle phases, node birth, node initialization, node activation, node operation, node deactivation, node death, node lifecycle stages, node state transitions, node state management` - type: concept
+- [[concepts/navigationmesh|navigationmesh]] `aliases: NavigationMesh, Baking Navigation Mesh` - type: concept
+- [[concepts/meshinstance3d|meshinstance3d]] `aliases: MeshInstance3D, 3D Mesh Instance Node` - type: concept
+- [[concepts/mesh-level-of-detail-lod|mesh-level-of-detail-lod]] `aliases: Mesh LOD, Level of Detail Optimization` - type: concept
+- [[concepts/interface|interface]] - generation_complete: true
+- [[concepts/imperative-programming|imperative-programming]] `aliases: Imperative Programming, Procedural Programming` - type: concept
+- [[concepts/depth-buffer-precision|depth-buffer-precision]] `aliases: Depth Buffer Precision, Depth buffer precision, Depth buffer` - type: concept
+- [[concepts/global-state|global-state]] `aliases: Global State, Global resource allocation` - type: concept
+- [[concepts/global-illumination|global-illumination]] `aliases: Global illumination, GI, LightmapGI, VoxelGI, SDFGI, Global illumination techniques, global_illumination` - type: concept
+- [[concepts/global-access|global-access]] `aliases: Global Access` - type: concept
+- [[concepts/geometry|geometry]] `aliases: Geometry in Godot, Shape Representation in Computer Graphics` - type: concept
+- [[concepts/game-engine|game-engine]] `aliases: Game Engine Development, Game Development Engine, Video Game Engine, Game Project Management, Game Project Settings, Godot Game Engine, Game Development Tools, Game Development Software, Game Development Environment, Game Programming Engine` - created: 2026-06-30
+- [[concepts/floating-window|floating-window]] `aliases: Floating Window, Floating Window (默认), Search bar` - type: concept
+- [[concepts/flipbook|flipbook]] `aliases: Flipbook, animation flipbook, flipbook-texture, flipbook texture` - type: concept
+- [[concepts/features|features]] `aliases: Feature Management, manager, feature-profiles, build profile, feature profiles, build profiles` - type: concept
+- [[concepts/fast-approximate-antialiasing-fxaa|fast-approximate-antialiasing-fxaa]] `aliases: Fast Approximate Antialiasing, FXAA` - type: concept
+- [[concepts/fake-global-illumination|fake-global-illumination]] `aliases: Fake GI, Handmade GI` - type: concept
+- [[concepts/external-text-editor|external-text-editor]] `aliases: External Code Editor, Standalone Code Editor, Code completion` - type: concept
+- [[concepts/exposure|exposure]] `aliases: Exposure Settings, 光线和摄像机单位` - type: concept
+- [[concepts/color-banding|color-banding]] `aliases: Color Banding, 颜色条纹` - type: concept
+- [[concepts/export-templates|export-templates]] `aliases: Export Templates, Custom Godot Builds` - type: concept
+- [[concepts/attractor-interaction|attractor-interaction]] `aliases: Attractor Interaction, Attractor Interaction Property` - type: concept
+- [[concepts/encapsulation|encapsulation]] `aliases: Encapsulation` - type: concept
+- [[concepts/emitter-properties|emitter-properties]] `aliases: Emitter properties, Emitter Properties, 粒子系统发射器属性, project-settings, project configurations, project properties, project settings window, project settings input, project settings rendering, project settings customization, godot project settings, Project Settings, emitter properties, particle system properties, particle system settings, Godot particle system` - type: concept
+- [[concepts/emission|emission]] `aliases: Emission, 发射, Game embedding, _notification, Properties, Emitter mode` - type: concept
+- [[concepts/emission-shape|emission-shape]] `aliases: Emission Shape, 复杂发射形状, Color Space Transformations, Surface, procedural geometry, ArrayMesh.ARRAY_MAX, Constructive Solid Geometry, Screen-space reflections, Basis, Euler angles, Static decoration, Dynamic gameplay elements, REQUEST_INSTALL_PACKAGES, Fog volumes properties, Amount Ratio, One Shot, arealight3d, Variable Rate Shading, StandardMaterial3D, Z-buffer, Label3D, 3D rendering engine, Specular lighting, ImmediateMesh, CSGBox3D, CSGSphere3D, CSGPolygon3D, CSGCombiner3D, CSGTorus3D, SpringArm3D, 3d-rendering-engine, Decal, 3D editor, Variable rate shading, Volumetric fog, Fog volumes, Quads, FogVolumes, Lightmap, arealight2d, Ambient Light 2D, Global Illumination 2D Light, 2D Global Illumination Source, 2D Ambient Light Source, Godot Ambient Light, Global Illumination Node, Global Illumination Effect 2D, 2D Scene Lighting, Ambient Light Node, Global Illumination in 2D, ambientlight2d, AmbientLight2D, Global Illumination 2D, 2D Ambient Light, 2d-rendering-engine, Godot 2D graphics engine, 2D graphics rendering in Godot, Godot 2D game engine, 2D sprite rendering in Godot, Godot 2D physics engine, 2D TileMap system in Godot, 2D animation in Godot, Godot 2D lighting, 2D texture management in Godot` - type: concept
+- [[concepts/editors-interface|editors-interface]] `aliases: Editor Interface, Integrated Development Environment` - type: concept
+- [[concepts/display-referred|display-referred]] `aliases: Color Space, Display-Space Color, 色彩空间` - type: concept
+- [[concepts/design-levels|design-levels]] `aliases: Designing Levels in Godot, Large Levels: Static vs. Dynamic, Level prototyping` - type: concept
+- [[concepts/dependency-injection|dependency-injection]] `aliases: Dependency Injection, DI, Loose coupling, High-level API, Low-level API, Best practices in scene structure, Script usage in Godot, OOP principles in Godot, External dependency provisioning, Decoupled dependencies, Modular and reusable classes` - created: 2026-06-30
+- [[concepts/animation|animation]] `aliases: 2D sprite animation, 2D character animation, AnimatedSprite2D, AnimationPlayer, sprite animation control, animation in Godot, animated sprites in Godot, smooth movement in animations, controlling animations in Godot, animation methods in Godot, animation tutorial in Godot, animation-system-editor, Compilation Configuration Editor, Godot Compilation Configuration Editor, 2D Sprite Animation` - created: 2026-07-01
+- [[concepts/declarative-programming|declarative-programming]] `aliases: Imperative vs Declarative, Declarative Programming vs Imperative` - type: concept
+- [[concepts/customizable|customizable]] `aliases: Customizable` - type: concept
+- [[concepts/custom-shaders|custom-shaders]] `aliases: Fog shaders` - created: 2026-06-30
+- [[concepts/custom-drawing-in-2d|custom-drawing-in-2d]] `aliases: Custom Drawing, Custom 2D Drawing, Custom drawing, resizable, Syntax Highlighting` - type: concept
+- [[concepts/complex-emission-shapes|complex-emission-shapes]] `aliases: Complex Emission Shapes Summary, Arbitrary Emission Shapes, Complex Particle Emission, Godot Particle Emission, Emission Shapes Godot, Particle Emission from Meshes, Complex Shape Particle Emission, Godot Particle System Emission, Particle Emission from Complex Shapes, Mesh-based Particle Emission, Godot Particle Shapes` - created: 2026-06-30
+- [[concepts/command-line|command-line]] `aliases: Command line tutorial, Tutoriel ligne de commande, Command line` - type: concept
+- [[concepts/command-line-arguments|command-line-arguments]] `aliases: Command Line Arguments, CLI Arguments, 2d-lighting, 2D Lighting, 2D灯光, Command line interface` - type: concept
+- [[concepts/collision-nodes|collision-nodes]] `aliases: Collision Nodes in Godot, Collision` - type: concept
+- [[concepts/code-editor|code-editor]] `aliases: source code editor, text editor for coding, code writing tool, programming code editor, integrated code editor, code writing and editing software, source code writing tool, text editor for programming, code development editor, source code authoring tool, programming code writing software` - generation_complete: true
+- [[concepts/canvas-transforms|canvas-transforms]] `aliases: Canvas transforms, Canvas Transformations, Global canvas transform` - type: concept
+- [[concepts/canvaslayers|canvaslayers]] `aliases: CanvasLayers, Canvas Layers, canvaslayer, canvas rendering layer, rendering layer, 2d rendering layer, UI layer, fixed screen space UI, separate rendering layer, Transform2D canvas layer, independent rendering layer, independent UI layer, viewport UI layer, viewport canvas layer, viewport rendering layer, game viewport layer, screen space UI layer, Canvas Layer, Canvas Layer node` - type: concept
+- [[concepts/best-practices|best-practices]] `aliases: Baking` - created: 2026-06-30
+- [[concepts/behavior-changes|behavior-changes]] `aliases: Behavior Changes` - type: concept
+- [[concepts/3d-text|3d-text]] `aliases: 3D Text in Godot, 3D workspace` - type: concept
+- [[concepts/array|array]] `aliases: PatternDataFlow, ArrayMeshTutorial, CustomMeshData, MeshInformationStorage, VertexPositions, NormalsAndIndices` - generation_complete: true
+- [[concepts/2d-skeletons|2d-skeletons]] `aliases: 2D Skeletons, 2D骨架` - type: concept
+- [[concepts/2d-navigation-overview|2d-navigation-overview]] `aliases: 2D Navigation Overview, View Navigation` - type: concept
+- [[concepts/android-editor|android-editor]] `aliases: Android Editor Summary` - type: concept
+- [[concepts/android-devices-support|android-devices-support]] `aliases: Android Devices Support, Android Compatibility` - type: concept
+- [[concepts/all-files-access-permission|all-files-access-permission]] `aliases: All Files Access Permission` - type: concept
+- [[concepts/8-way-movement|8-way-movement]] `aliases: 2d-movement, Eight-direction movement, Eight-way navigation, Eight-directional movement, Eight-direction flow, Eight-direction control, 8-direction movement, 8-direction navigation, 8-directional movement, 8-direction flow, 8-direction control, 8-way movement, Eight-way movement, 2D Movement` - created: 2026-07-01
+- [[concepts/3d-mesh|3d-mesh]] `aliases: 3D Mesh, 3D形状, csg, CSGMesh3D, 3D mesh, Mesh` - type: concept
+- [[concepts/2d-parallax|2d-parallax]] `aliases: 2D Parallax Summary, 2D Parallax, Projected Label node` - type: concept
+- [[concepts/2d-meshes|2d-meshes]] `aliases: 2D Grid, 2D Lattice, 2D Network, 2D Topology, Grid Graph, Lattice Graph, Planar Graph, 2D Array, Matrix Representation, meshinstance2d, MeshInstance2D, 2D Mesh Instance, 2D Meshes, 2D Geometry, meshes-in-2d, Meshes in 2D, 2D meshes, 2D mesh, CPUParticles2D, GPUParticles2D` - created: 2026-07-01
+- [[concepts/2d-game-development-tools|2d-game-development-tools]] `aliases: 2D Game Development Tools` - type: concept
+
+## Sources
+
+- [[sources/autoloads-versus-regular-nodes|autoloads-versus-regular-nodes]]
+- [[sources/when-to-use-scenes-versus-scripts_209303|when-to-use-scenes-versus-scripts_209303]] `aliases: Scenes vs Scripts`
+- [[sources/when-and-how-to-avoid-using-nodes-for-everything_12de9c|when-and-how-to-avoid-using-nodes-for-everything_12de9c]] `aliases: Optimizing Godot Projects`
+- [[sources/volumetric-fog-and-fog-volumes_c2ee36|volumetric-fog-and-fog-volumes_c2ee36]] `aliases: Volumetric Fog and Fog Volumes Summary`
+- [[sources/visibility-ranges-hlod_69bb56|visibility-ranges-hlod_69bb56]] `aliases: Visibility Ranges (HLOD) Summary`
+- [[sources/viewport-and-canvas-transforms_9eb2ac|viewport-and-canvas-transforms_9eb2ac]] `aliases: Alternative title or translation`
+- [[sources/version-control-systems_acde2f|version-control-systems_acde2f]] `aliases: Version Control Systems - Summary`
+- [[sources/variable-rate-shading_4f609e|variable-rate-shading_4f609e]] `aliases: Variable Rate Shading`
+- [[sources/using-voxel-global-illumination_8fb70b|using-voxel-global-illumination_8fb70b]] `aliases: Using Voxel Global Illumination`
+- [[sources/using-tilesets_250001|using-tilesets_250001]] `aliases: Creating and Using TileSets in Godot`
+- [[sources/using-tilemaps_53ba01|using-tilemaps_53ba01]] `aliases: Using Tile Maps, Creating Game Layout with TileMaps`
+- [[sources/using-the-xr-editor_b03953|using-the-xr-editor_b03953]] `aliases: Alternative title or translation`
+- [[sources/upgrading-from-godot-4-6-to-godot-4-7_b43821|upgrading-from-godot-4-6-to-godot-4-7_b43821]] `aliases: Upgrading from Godot 4.6 to Godot 4.7 Summary`
+- [[sources/using-the-web-editor_99481c|using-the-web-editor_99481c]] `aliases: Using the Web Editor`
+- [[sources/using-the-surfacetool_7fe5f7|using-the-surfacetool_7fe5f7]] `aliases: Using the SurfaceTool, Surfacetool Summary`
+- [[sources/upgrading-from-godot-4-5-to-godot-4-6_6a5bbb|upgrading-from-godot-4-5-to-godot-4-6_6a5bbb]] `aliases: Upgrading from Godot 4.5 to Godot 4.6`
+- [[sources/using-the-project-manager_c43384|using-the-project-manager_c43384]] `aliases: Tutorial: Using the Godot Project Manager, Godot Project Manager Guide`
+- [[sources/using-the-meshdatatool_2e2d70|using-the-meshdatatool_2e2d70]] `aliases: MeshDataTool in Godot, Using the MeshDataTool`
+- [[sources/using-the-engine-compilation-configuration-editor_1c2905|using-the-engine-compilation-configuration-editor_1c2905]] `aliases: Using the Godot Engine Compilation Configuration Editor`
+- [[sources/using-the-android-editor_0871e7|using-the-android-editor_0871e7]] `aliases: Android Editor Summary`
+- [[sources/using-the-arraymesh_bf1304|using-the-arraymesh_bf1304]] `aliases: Using ArrayMesh`
+- [[sources/using-multimeshinstance3d_15c020|using-multimeshinstance3d_15c020]] `aliases: Using MultiMeshInstance3D`
+- [[sources/using-immediatemesh_581258|using-immediatemesh_581258]] `aliases: Using ImmediateMesh`
+- [[sources/using-lightmap-global-illumination_584d0c|using-lightmap-global-illumination_584d0c]] `aliases: Using Lightmap Global Illumination`
+- [[sources/using-gridmaps_84eae9|using-gridmaps_84eae9]] `aliases: Using GridMaps`
+- [[sources/autoloads-versus-regular-nodes_5fdeb7|autoloads-versus-regular-nodes_5fdeb7]] `aliases: Alternative title or translation`
+- [[sources/using-decals_c227e6|using-decals_c227e6]] `aliases: Using decals - Summary, Decals - 3D Effects`
+- [[sources/using-an-external-text-editor_fd49d6|using-an-external-text-editor_fd49d6]] `aliases: Using an External Text Editor - Summary`
+- [[sources/using-3d-transforms_c61bb4|using-3d-transforms_c61bb4]] `aliases: Alternative title or translation`
+- [[sources/upgrading-from-godot-4-4-to-godot-4-5_219ec5|upgrading-from-godot-4-4-to-godot-4-5_219ec5]] `aliases: Upgrading from Godot 4.4 to 4.5`
+- [[sources/troubleshooting_5537b0|troubleshooting_5537b0]] `aliases: Troubleshooting`
+- [[sources/third-person-camera-with-spring-arm_d903bc|third-person-camera-with-spring-arm_d903bc]] `aliases: Third-person camera setup with SpringArm3D`
+- [[sources/signed-distance-field-global-illumination-sdfgi_9c0ee6|signed-distance-field-global-illumination-sdfgi_9c0ee6]] `aliases: SDFGI, Signed distance field global illumination`
+- [[sources/script-editor_a1ebb7|script-editor_a1ebb7]] `aliases: Script Editor Summary`
+- [[sources/scene-organization_69b6b7|scene-organization_69b6b7]] `aliases: Alternative title or translation`
+- [[sources/resolution-scaling_7ee96f|resolution-scaling_7ee96f]] `aliases: Resolution Scaling`
+- [[sources/reflection-probes_326e5a|reflection-probes_326e5a]] `aliases: Reflection Probes - Summary, Reflection Probes`
+- [[sources/prototyping-levels-with-csg_8c8353|prototyping-levels-with-csg_8c8353]] `aliases: Prototyping levels with CSG`
+- [[sources/project-organization_d9a2d7|project-organization_d9a2d7]] `aliases: Project Organization`
+- [[sources/project-settings_64180f|project-settings_64180f]] `aliases: Project Settings Summary`
+- [[sources/process-material-properties_b995f8|process-material-properties_b995f8]] `aliases: Process material properties`
+- [[sources/procedural-geometry_23fef7|procedural-geometry_23fef7]] `aliases: Procedural Geometry Generation in Godot`
+- [[sources/physical-light-and-camera-units_554618|physical-light-and-camera-units_554618]] `aliases: Alternative title or translation`
+- [[sources/particleprocessmaterial-2d-usage_f7eb31|particleprocessmaterial-2d-usage_f7eb31]] `aliases: ParticleProcessMaterial 2D Usage Summary`
+- [[sources/particle-sub-emitters_f95a10|particle-sub-emitters_f95a10]] `aliases: Chained sub-emitters`
+- [[sources/particle-turbulence_d714b0|particle-turbulence_d714b0]] `aliases: Particle Turbulence`
+- [[sources/occlusion-culling_b5e431|occlusion-culling_b5e431]] `aliases: Occlusion Culling Summary`
+- [[sources/mesh-level-of-detail-lod_2306ae|mesh-level-of-detail-lod_2306ae]] `aliases: Mesh LOD Optimization`
+- [[sources/managing-editor-features_1098cd|managing-editor-features_1098cd]] `aliases: Managing Editor Features`
+- [[sources/introduction-to-global-illumination_9391fd|introduction-to-global-illumination_9391fd]] `aliases: Introduction to Global Illumination, Introducción a la iluminación global`
+- [[sources/logic-preferences_e3d71c|logic-preferences_e3d71c]] `aliases: Alternative title or translation`
+- [[sources/introduction-to-3d_d3c2ee|introduction-to-3d_d3c2ee]] `aliases: Introduction to 3D`
+- [[sources/introduction-to-2d_5b22c4|introduction-to-2d_5b22c4]] `aliases: Introduction to 2D, Introduction à 2D`
+- [[sources/inspector-dock_95da34|inspector-dock_95da34]] `aliases: Inspector Dock, Alternative title or translation`
+- [[sources/applying-object-oriented-principles-in-godot_2eb1a1|applying-object-oriented-principles-in-godot_2eb1a1]] `aliases: Applying object-oriented principles in Godot`
+- [[sources/high-dynamic-range-lighting_929053|high-dynamic-range-lighting_929053]] `aliases: High Dynamic Range Lighting in Godot`
+- [[sources/godot-notifications_408110|godot-notifications_408110]]
+- [[sources/godot-interfaces_6c3f7d|godot-interfaces_6c3f7d]] `aliases: Godot Interfaces`
+- [[sources/faking-global-illumination_bcd3ba|faking-global-illumination_bcd3ba]] `aliases: Faking global illumination, Simulating global illumination`
+- [[sources/game-embedding_4c64e9|game-embedding_4c64e9]] `aliases: Game Embedding Summary`
+- [[sources/editor-introduction_537aac|editor-introduction_537aac]] `aliases: Editor Introduction`
+- [[sources/custom-drawing-in-2d_a14136|custom-drawing-in-2d_a14136]] `aliases: Custom drawing in 2D tutorial`
+- [[sources/customizing-the-interface_e83d76|customizing-the-interface_e83d76]] `aliases: Alternative title or translation`
+- [[sources/creating-a-3d-particle-system_2968df|creating-a-3d-particle-system_2968df]] `aliases: Creating a 3D particle system, Tuto Particules 3D`
+- [[sources/3d-text_2316fe|3d-text_2316fe]] `aliases: 3D Text in Godot`
+- [[sources/complex-emission-shapes_fd5c53|complex-emission-shapes_fd5c53]] `aliases: Complex Emission Shapes Summary`
+- [[sources/command-line-tutorial_133ad0|command-line-tutorial_133ad0]] `aliases: Command line tutorial, Tutoriel ligne de commande`
+- [[sources/canvas-layers_07851b|canvas-layers_07851b]] `aliases: Alternative title or translation`
+- [[sources/best-practices_c9f2d9|best-practices_c9f2d9]] `aliases: Godot Best Practices`
+- [[sources/best-practices-introduction_cab7dc|best-practices-introduction_cab7dc]] `aliases: Introduction to Best Practices`
+- [[sources/baseline-node-knowledge_a260ed|baseline-node-knowledge_a260ed]] `aliases: Godot Engine 4.7+ Core Architecture and Lifecycle`
+- [[sources/3d-particle-trails_2f5451|3d-particle-trails_2f5451]] `aliases: 3D Particle Trails`
+- [[sources/3d-particle-attractors_150d1c|3d-particle-attractors_150d1c]] `aliases: 3D Particle Attractors, Particle Attractors in Godot`
+- [[sources/3d-antialiasing_370351|3d-antialiasing_370351]] `aliases: 3D Antialiasing Techniques`
+- [[sources/3d-rendering-limitations_19ae71|3d-rendering-limitations_19ae71]] `aliases: 3D Rendering Limitations Summary`
+- [[sources/3d-particle-system-properties_a7abd5|3d-particle-system-properties_a7abd5]] `aliases: 3D Particle system properties, Particle System Properties`
+- [[sources/3d-particle-system-properties_582772|3d-particle-system-properties_582772]] `aliases: 3D Particle System Properties, Particle System Properties`
+- [[sources/3d-particle-collisions_11bc9a|3d-particle-collisions_11bc9a]] `aliases: 3D Particle Collisions, GPU Particle Collisions`
+- [[sources/2d-particle-systems_983afc|2d-particle-systems_983afc]] `aliases: 2D Particle Systems`
+- [[sources/3d-lights-and-shadows_185e5f|3d-lights-and-shadows_185e5f]] `aliases: 3D Lights and Shadows, Shadows and Light in 3D`
+- [[sources/2d_cacd6a|2d_cacd6a]] `aliases: Rendering 2D`
+- [[sources/2d-sprite-animation_d91b28|2d-sprite-animation_d91b28]] `aliases: 2D Sprite Animation Tutorial, Godot 2D Animation`
+- [[sources/2d-parallax_2978be|2d-parallax_2978be]] `aliases: 2D Parallax Summary`
+- [[sources/2d-movement-overview_a7b7f4|2d-movement-overview_a7b7f4]] `aliases: 2D Movement Overview, Mouvement 2D`
+- [[sources/2d-meshes_39492f|2d-meshes_39492f]] `aliases: 2D Mesh Conversion`
+- [[sources/2d-lights-and-shadows_e0c296|2d-lights-and-shadows_e0c296]] `aliases: 2D Lighting and Shadows`
+- [[sources/2d-antialiasing_bf461b|2d-antialiasing_bf461b]] `aliases: 2D Antialiasing, 2D rendering antialiasing`

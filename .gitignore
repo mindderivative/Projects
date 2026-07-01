@@ -1,0 +1,18 @@
+# Block Godot local translation and compilation cache layers
+.godot/
+
+# Block Obsidian Copilot indexing files
+/.copilot-index/
+
+# Block export binaries (Preserve your release code clean)
+build/
+bin/
+export_presets.cfg
+
+# Block standard OS and text editor cache items
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+/.copilot-index/copilot-index-37dea50baddefc3b7b3ed3e059761013.json.copilot-index/
+.copilot-index/

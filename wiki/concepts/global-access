@@ -1,0 +1,77 @@
+---
+type: concept
+created: 2026-06-30
+updated: 2026-06-30
+sources: ["[[sources/scene-organization_69b6b7]]", "[[sources/applying-object-oriented-principles-in-godot_2eb1a1]]"]
+tags: [PatternComposition]
+aliases:
+  - "Loose coupling"
+  - "Loose coupling principle"
+  - "Loose coupling in software engineering"
+generation_complete: true
+---
+
+
+# Loose coupling
+
+## Definition
+Loose coupling is a principle in software engineering where modules, objects, or functions are designed to interact as little as possible. This allows for more modular and reusable code, as changes in one module do not necessarily require changes in another.
+
+## Key Characteristics
+- Interactions between modules, objects, or functions are minimized
+- Modules are designed to be independent and modular
+- Changes in one module do not necessarily require changes in another
+
+## Applications
+- Software engineering
+- Object-oriented programming
+- Modularity and reusability in code
+
+## Related Concepts
+- [[concepts/SOLID principles|SOLID principles]]
+- [[concepts/Dependency Injection|Dependency Injection]]
+
+## Related Entities
+- [[entities/Godot engine|Godot engine]]
+
+## Mentions in Source
+- In Godot, the principles of OOP are used to create best practices in scene structure and script usage. — [[sources/scene-organization_69b6b7]]
+- One of the biggest things to consider in OOP is maintaining focused, singular-purpose classes with loose coupling to other parts of the codebase. — [[sources/applying-object-oriented-principles-in-godot_2eb1a1]]
+
+---
+
+**Output Format:**
+---
+type: concept  # MUST be exactly "concept" - do not change this value
+created: 2026-06-30
+updated: {{date}}
+sources: ["[[sources/scene-organization_69b6b7]]", "[[sources/applying-object-oriented-principles-in-godot_2eb1a1]]"]
+tags: [PatternComposition]
+aliases: ["Loose coupling", "Loose coupling principle", "Loose coupling in software engineering"]
+---
+
+# Loose coupling
+
+## Definition
+Loose coupling is a principle in software engineering where modules, objects, or functions are designed to interact as little as possible. This allows for more modular and reusable code, as changes in one module do not necessarily require changes in another.
+
+## Key Characteristics
+- Interactions between modules, objects, or functions are minimized
+- Modules are designed to be independent and modular
+- Changes in one module do not necessarily require changes in another
+
+## Applications
+- Software engineering
+- Object-oriented programming
+- Modularity and reusability in code
+
+## Related Concepts
+- [[concepts/SOLID principles|SOLID principles]]
+- [[concepts/Dependency Injection|Dependency Injection]]
+
+## Related Entities
+- [[entities/Godot engine|Godot engine]]
+
+## Mentions in Source
+- In Godot, the principles of OOP are used to create best practices in scene structure and script usage. — [[sources/scene-organization_69b6b7]]
+- One of the biggest things to consider in OOP is maintaining focused, singular-purpose classes with loose coupling to other parts of the codebase. — [[sources/applying-object-oriented-principles-in-godot_2eb1a1]]

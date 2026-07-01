@@ -1,0 +1,34 @@
+---
+type: concept
+created: 2026-06-30
+updated: 2026-06-30
+sources: ["[[sources/using-the-web-editor_99481c]]"]
+tags: [Field]
+aliases:
+  - "Browser Support"
+  - "Supported Browsers"
+generation_complete: true
+---
+
+
+# Browser Support
+
+## Definition
+The web editor requires specific browser support to function properly. It lists the supported web browsers and mentions that mobile browsers may not provide an ideal experience due to performance and input limitations.
+
+## Key Characteristics
+- Lists supported web browsers
+- Mentions limitations of mobile browsers
+
+## Applications
+- Ensures proper functionality of the web editor
+- Provides information for users on browser compatibility
+
+## Related Concepts
+[[concepts/Platform support|Platform support]]
+
+## Related Entities
+[[entities/Web editor|Web editor]]
+
+## Mentions in Source
+- "See System requirements for a list of supported web browsers. Mobile browsers are supported, but won't provide an ideal experience due to performance and input limitations." — [[sources/using-the-web-editor_99481c]]

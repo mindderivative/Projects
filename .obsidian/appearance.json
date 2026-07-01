@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "hide-uid",
+    "hide-mjs"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "Rubik",
+  "interfaceFontFamily": "Rubik",
+  "accentColor": "#5cf5f2",
+  "theme": "obsidian"
+}

@@ -1,0 +1,35 @@
+---
+generation_complete: true
+---
+
+{
+  "name": "create_concept_page",
+  "arguments": {
+    "concept_name": "FogMaterial properties",
+    "concept_type": "PatternDataFlow",
+    "definition": "FogMaterial properties are a set of properties that can be used to customize volumetric fog and fog volumes in Godot. They include density, albedo, and emission, and can be used to create local volumetric fog effects using FogVolume nodes.",
+    "characteristics": [
+      "- After choosing **New FogMaterial** in the **Material** property, you can adjust the following properties in FogMaterial:",
+      "- Here's a quick start guide to using FogVolumes:"
+    ],
+    "applications": [
+      "FogMaterial properties can be used to create local volumetric fog effects using FogVolume nodes in Godot."
+    ],
+    "related_concepts": [
+      "- Volumetric fog",
+      "- Fog shaders"
+    ],
+    "related_entities": [
+      "- FogVolume nodes"
+    ],
+    "mentions_in_source": [
+      "- After choosing **New FogMaterial** in the **Material** property, you can adjust the following properties in FogMaterial: — [[raw/Volumetric fog and fog volumes|Volumetric fog and fog volumes]]",
+      "- Here's a quick start guide to using FogVolumes: — [[raw/Volumetric fog and fog volumes|Volumetric fog and fog volumes]]"
+    ],
+    "aliases": [
+      "FogMaterial properties",
+      "Local volumetric fog effects",
+      "Volumetric fog customization"
+    ]
+  }
+}

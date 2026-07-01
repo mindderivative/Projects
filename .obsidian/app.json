@@ -1,0 +1,28 @@
+{
+  "openBehavior": "file:",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    ".*\\.uid$",
+    ".*\\.mjs$"
+  ],
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "useTab": true,
+  "tabSize": 4,
+  "smartIndentList": true,
+  "autoConvertHtml": true,
+  "foldIndent": false,
+  "strictLineBreaks": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "autoPairBrackets": true,
+  "propertiesInDocument": "visible",
+  "readableLineLength": true,
+  "defaultViewMode": "source",
+  "livePreview": false
+}

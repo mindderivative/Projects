@@ -1,0 +1,364 @@
+{
+  "main": {
+    "id": "4d113f99332a1e7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4201bbdf21e7d67b",
+        "type": "split",
+        "children": [
+          {
+            "id": "c655794845b8e96a",
+            "type": "tabs",
+            "dimension": 22.39685658153242,
+            "children": [
+              {
+                "id": "1f17b9ad976c3a97",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "wiki/log.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "log"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4948654660a2fa34",
+            "type": "tabs",
+            "dimension": 77.60314341846758,
+            "children": [
+              {
+                "id": "b01d4c98997888a0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/phil/LLM-Wiki",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "fish",
+                        "followTheme": true,
+                        "name": "Fish",
+                        "platforms": {
+                          "darwin": true,
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "linuxIntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ~/LLM-Wiki: sudo journalctl -u llama-cluster.service -f -n 100 - sudo"
+                }
+              },
+              {
+                "id": "09e5fbd3dca61d8b",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/phil/LLM-Wiki",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "fish",
+                        "followTheme": true,
+                        "name": "Fish",
+                        "platforms": {
+                          "darwin": true,
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": false
+                      },
+                      "profileSourceId": "linuxIntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "icon": "terminal",
+                  "title": "Terminal: ~/LLM-Wiki - fish"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b23e2cf93fd8144b",
+    "type": "split",
+    "children": [
+      {
+        "id": "73faf46e39fc6dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4884fb9f5c10ad1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d707f06d78d2d5ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Forward+",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1c15b8939dae166",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357
+  },
+  "right": {
+    "id": "6764bf98af1efb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3dd77063b12326a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a62ff0692845248",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbe8d9bda158d409",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5e8fdf46d868ba13",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "raw/archive/Custom drawing in 2D.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Custom drawing in 2D"
+            }
+          },
+          {
+            "id": "822e9a4e1645973f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/Index Base.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index Base"
+            }
+          },
+          {
+            "id": "e4fdfb0b2864788a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "25c0db149acd460a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/archive/Custom drawing in 2D.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Custom drawing in 2D"
+            }
+          },
+          {
+            "id": "1bec6bc2f24a99b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "karpathywiki:Ingest current file": false,
+      "karpathywiki:Query wiki": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "09e5fbd3dca61d8b",
+  "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/concepts/concepts.md",
+    "wiki/entities/arealight2d.md",
+    "wiki/entities/animation-system-editor.md",
+    "wiki/concepts/godot-object-constructor.md",
+    "wiki/entities/arealight3d.md",
+    "wiki/entities/autoload.md",
+    "wiki/entities/canvaslayer.md",
+    "wiki/entities/rigidbody2d.md",
+    "wiki/entities/characterbody2d.md",
+    "wiki/entities/aabb.md",
+    "wiki/concepts/canvasitem-notifications.md",
+    "wiki/concepts/2d-graphics-concepts.md",
+    "wiki/entities/csg.md",
+    "wiki/concepts/baseline-node-knowledge.md",
+    "wiki/entities/gdscript.md",
+    "wiki/concepts/godot-4-7-upgrade.md",
+    "wiki/entities/emitter.md",
+    "wiki/concepts/visibility.md",
+    "wiki/entities/godot-editor.md",
+    "wiki/entities/godot-engine.md",
+    "wiki/entities/source-name.md",
+    "wiki/entities/godot.md",
+    "wiki/concepts/open-command-concepts.md",
+    "wiki/concepts/mobile-games.md",
+    "wiki/concepts/digital-distribution.md",
+    "wiki/concepts/emission-shape",
+    "wiki/concepts/platformweb",
+    "wiki/concepts/global-access",
+    "wiki/raw",
+    "raw/archive",
+    "raw",
+    "wiki/synthesis",
+    "wiki/concepts",
+    "wiki/schema",
+    "wiki/sources",
+    "Godot-Docs/GodotEngine/images/xr_touch_completed.png",
+    "Godot-Docs/GodotEngine/images/xr_tools_basic_hands.png",
+    "Godot-Docs/GodotEngine/images/xr_simple_controller.png",
+    "Godot-Docs/GodotEngine/images/xr_shaders.png",
+    "Godot-Docs/GodotEngine/images/xr_select_action.png",
+    "Godot-Docs/GodotEngine/images/xr_room_scale_origin_body.png",
+    "Godot-Docs/GodotEngine/images/xr_room_scale_character_body.png",
+    "Godot-Docs/GodotEngine/images/xr_right_hand.png",
+    "Godot-Docs/GodotEngine/images/xr_passthrough_example.png",
+    "Godot-Docs/GodotEngine/images/xr_my_first_action_set.png"
+  ]
+}
